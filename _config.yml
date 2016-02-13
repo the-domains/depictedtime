@@ -1,0 +1,14 @@
+layout_spectrum: 0.6034669
+typography_spectrum: 0.5507978
+color:
+  saturation: 0.8276047
+  lightness: 0.1627282
+  brandStrength: 0.9607948
+  brandColors:
+    - '#4B5564'
+    - '#878A91'
+    - '#ACABAB'
+    - '#FCFBFA'
+    - '#DFD7CF'
+  rhythmicContrast: 0.6084855
+name: DepictedTime
