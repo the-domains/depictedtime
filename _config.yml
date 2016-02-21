@@ -1,14 +1,28 @@
+name: DepictedTime
+favicon: null
 layout_spectrum: 0.6034669
 typography_spectrum: 0.5507978
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.8276047
-  lightness: 0.1627282
-  brandStrength: 0.9607948
   brandColors:
     - '#4B5564'
     - '#878A91'
     - '#ACABAB'
     - '#FCFBFA'
     - '#DFD7CF'
+  brandStrength: 0.9607948
+  lightness: 0.1627282
+  saturation: 0.8276047
   rhythmicContrast: 0.6084855
-name: DepictedTime
+purpose: []
