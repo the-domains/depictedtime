@@ -1,28 +1,40 @@
-name: DepictedTime
 favicon: null
-layout_spectrum: 0.6034669
-typography_spectrum: 0.5507978
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: DepictedTime
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
-  brandColors:
-    - '#4B5564'
-    - '#878A91'
-    - '#ACABAB'
-    - '#FCFBFA'
-    - '#DFD7CF'
+  saturation: 0.8276047
   brandStrength: 0.9607948
   lightness: 0.1627282
-  saturation: 0.8276047
+  brandColors:
+    - '#4C5564'
+    - '#303948'
+    - '#151B24'
+    - '#898B8F'
+    - '#E9E8E8'
   rhythmicContrast: 0.6084855
-purpose: []
+typography_spectrum: 0.8598281
+layout_spectrum: 1
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
